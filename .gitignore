@@ -1,0 +1,56 @@
+# Ignore node modules
+node_modules/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build artifacts
+dist/
+build/
+out/
+*.egg-info/
+
+# Dependency directories
+vendor/
+bower_components/
+
+# Compiled files
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Coverage and test results
+coverage/
+*.lcov
+.nyc_output/
+
+# Git backup and patch files
+*.orig
+*.rej
+
+# Optional: ignore SQLite or other dev databases
+*.sqlite
+*.db
