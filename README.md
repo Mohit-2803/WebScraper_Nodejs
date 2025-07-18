@@ -1,4 +1,4 @@
-# 📚 Web Scraper - Books to Scrape
+# 📚 Web Scraper
 
 A modular, configurable Node.js web scraper built to extract data from paginated websites like [Books to Scrape](https://books.toscrape.com). It features retry logic, JSON/CSV saving, notifications, and structured logging.
 
