@@ -17,6 +17,8 @@ A modular, configurable Node.js web scraper built to extract data from paginated
 
 ## 🧰 Project Structure
 
+```
+
 src/
 ├── config/ # Environment-based configuration
 │ └── default.js
@@ -34,6 +36,8 @@ src/
 │ └── logger.js
 ├── index.js # Main entry point
 └── .env # Runtime configuration
+
+```
 
 ---
 
